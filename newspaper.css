@@ -1,0 +1,30 @@
+body {
+	background-image: url("images.jpg");
+	font-family: helvetica;
+	color:white;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-shadow: 1px 1px rgb(51, 51, 51);
+	
+}
+
+
+p {
+	color:white;
+	text-shadow: 1px 1px rgb(51, 51, 51);
+}
+
+#feed {
+	color: white;
+
+	line-height: 1.5;
+}
+
+#background {
+	background: rgba(0,0,0, 0.7);
+	max-width: 800px;
+	margin: auto;
+}
